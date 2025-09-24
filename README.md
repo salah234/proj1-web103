@@ -37,7 +37,7 @@ Here's a walkthrough of implemented required features:
 <img src='proj1Walkthrough (1).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Adobe Express  Add GIF tool here
+GIF created with Adobe Express
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
